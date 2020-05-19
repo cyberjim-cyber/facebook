@@ -1,0 +1,97 @@
+header{
+	
+	background-color:powderblue;overflow:hidden;padding:7px;
+	
+}
+.container{
+	
+	width:80%;margin:auto;
+	
+	
+}
+.logo-area{
+	
+	width:30%;
+	float:left;
+}
+.login-area{
+	
+	width:70%;
+	float:left;
+}
+.login-item{
+	
+	float:right;
+	
+}
+.login-area label{
+	
+	display:block;
+	
+}
+.login-area .email,
+.login-area .password,
+.login-area .login
+{
+	float:left;margin-right:10px;
+}
+
+.email input ,
+.password input {
+	border:2px solid red;
+	
+	
+	
+}
+
+
+.login-area label{
+	font-size:18px;margin-bottom:5px;
+	
+}
+
+
+.left-area{
+	width:60%;float:left;
+	
+	
+}
+
+.right-area{
+	
+	width:40%;float:right;
+}
+
+.form-section{
+	
+	background-color:pink;height:70vh;
+}
+.check-box{
+	margin-top:10px;
+	
+	
+}
+
+.pass input,
+.first input,
+.sur input,
+.mobile input{
+	
+	padding:5px;margin:5px;
+	
+}
+.first,
+.sur{
+	
+	float:left;
+	
+}
+
+
+
+
+
+
+
+
+
